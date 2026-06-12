@@ -158,7 +158,7 @@
 }
 
 .large-screen-svg-primary {
-  fill: $primary-400;
+  fill: #013B3B;
 }
 
 .medium-screen-svg-light,
@@ -169,7 +169,11 @@
 }
 
 .medium-screen-svg-primary {
-  fill: $primary-400;
+  fill: #013B3B;
+}
+
+.bg-primary-400 {
+  background-color: #013B3B !important;
 }
 
 [dir=rtl]{
